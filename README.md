@@ -12,7 +12,7 @@ A simulated NIST-based risk assessment for a fictional retail company.
 - Identified gaps in access control, encryption, and backups  
 - Proposed mitigation strategies and scored risk posture
 
-📄 [Download Report (PDF)]([./Risk_Assessment_Report.pdf](https://docs.google.com/document/d/1n4I1XEhJ1Gor7_sqR25aCpbFdvRXbXNd/edit?usp=drive_link&ouid=110816180027737805132&rtpof=true&sd=true)
+📄 [Download Report (PDF)](https://docs.google.com/document/d/1n4I1XEhJ1Gor7_sqR25aCpbFdvRXbXNd/edit?usp=drive_link&ouid=110816180027737805132&rtpof=true&sd=true)
 
 ---
 
@@ -23,7 +23,7 @@ Simulated network outage investigation using ICMP and DNS logs.
 - Identified issues with port 443 access  
 - Documented root cause and response actions
 
-📄 [Download Report (PDF)]([./Network_Traffic_Analysis.pdf](https://drive.google.com/file/d/13xi454dK6WvdvoCVP9z_dHHFKgkmq2HB/view?usp=drive_link)
+📄 [Download Report (PDF)](https://drive.google.com/file/d/13xi454dK6WvdvoCVP9z_dHHFKgkmq2HB/view?usp=drive_link)
 
 ---
 
@@ -34,5 +34,5 @@ DoS incident analysis involving a SYN flood attack on a web server.
 - Traced attacker source IP  
 - Recommended SYN cookies, firewall blocks, and IP filtering
 
-📄 [Download Report (PDF)]([./SYN_Flood_Report.pdf](https://docs.google.com/document/d/1j-D-2DVlZGSVYB2KE--WSIZCPmS9fwxU/edit?usp=drive_link&ouid=110816180027737805132&rtpof=true&sd=true)
+📄 [Download Report (PDF)](https://docs.google.com/document/d/1j-D-2DVlZGSVYB2KE--WSIZCPmS9fwxU/edit?usp=drive_link&ouid=110816180027737805132&rtpof=true&sd=true)
 
